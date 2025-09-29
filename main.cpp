@@ -1,6 +1,4 @@
-#include <stdio.h>
-#include <stdlib.h>
-
+#include <stdio.h> include <stdlib.h>
 #define SIZE 1024
 
 int main(int argc, char** argv) {
